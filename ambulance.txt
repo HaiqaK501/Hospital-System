@@ -1,0 +1,4 @@
+ambulance_id,vehicle_number,driver_name,driver_contact,ambulance_type,latitude,longitude,fuel_level,is_available
+1,LE-1234,Ahmed Khan,03001112233,BLS,31.5497,74.3436,85,1
+2,LE-5678,Imran Ali,03224445566,ALS,31.5204,74.3587,60,0
+3,LE-9012,Shoaib Malik,03446667788,BLS,31.5000,74.3400,45,1

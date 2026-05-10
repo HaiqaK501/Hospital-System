@@ -1,0 +1,6 @@
+test_id,test_name,test_type,cost,processing_time,normal_range,unit
+1,Complete Blood Count,Hematology,1000.00,4,4.5-11.0,10^3/uL
+2,Liver Function Test,Biochemistry,2000.00,6,7-56,U/L
+3,Blood Sugar,Diabetes,500.00,2,70-140,mg/dL
+4,Urine Analysis,Pathology,800.00,3,Negative,N/A
+5,Chest X-Ray,Imaging,3000.00,24,Normal,N/A

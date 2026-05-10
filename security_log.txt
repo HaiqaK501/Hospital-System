@@ -1,0 +1,7 @@
+timestamp,role,entered_id,result,attempt_count,is_locked
+15-05-2026 09:32:11,Patient,99,FAILED,1,NO
+15-05-2026 09:32:25,Patient,99,FAILED,2,NO
+15-05-2026 09:32:40,Patient,99,FAILED,3,NO
+15-05-2026 09:33:00,Patient,99,LOCKED,3,YES
+15-05-2026 10:15:22,Doctor,10,FAILED,1,NO
+16-05-2026 14:20:15,Admin,5,FAILED,1,NO

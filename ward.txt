@@ -1,0 +1,6 @@
+ward_id,ward_name,ward_type,total_beds,occupied_beds,daily_rate,nurse_in_charge,is_isolation
+1,General Ward-A,General,30,22,2000.00,Nadia Ali,0
+2,General Ward-B,General,30,18,2000.00,Sana Khan,0
+3,ICU-Ward,ICU,10,8,10000.00,Farah Ahmed,1
+4,Pediatric Ward,Pediatrics,20,12,3500.00,Rubina Akhtar,0
+5,Emergency Ward,Emergency,15,9,5000.00,Shazia Malik,1

@@ -1,0 +1,5 @@
+nurse_id,name,password,specialization,shift,assigned_ward,salary,experience
+1,Nadia Ali,pass123,ICU,Morning,Ward-A,50000.00,5
+2,Saba Khan,pass456,Emergency,Night,Ward-B,45000.00,3
+3,Fariha Malik,pass789,Pediatrics,Evening,Ward-C,48000.00,4
+4,Rubina Ahmed,pass321,Cardiology,Morning,Ward-D,52000.00,6

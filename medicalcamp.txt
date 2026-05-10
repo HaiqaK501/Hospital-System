@@ -1,0 +1,4 @@
+camp_id,camp_name,location,start_date,end_date,organizer,budget,expenses,is_completed
+1,Ramadan Health Camp,Gulberg,01-03-2026,05-03-2026,Health Ministry,500000.00,320000.00,1
+2,Free Checkup Camp,Johar Town,15-04-2026,17-04-2026,MediCore,300000.00,450000.00,0
+3,Diabetes Awareness,Model Town,10-05-2026,12-05-2026,Diabetes Assoc,200000.00,150000.00,0

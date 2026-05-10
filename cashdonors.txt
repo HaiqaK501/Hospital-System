@@ -1,0 +1,4 @@
+donor_id,name,password,contact,address,total_donated,this_year_donation,is_anonymous,sponsored_patients
+1,Mian Brothers,csh123,03007778899,Lahore,2000000.00,500000.00,0,2,3
+2,Shaukat Khanum,csh456,03228889900,Lahore,5000000.00,1000000.00,0,5,2
+3,Anonymous,csh789,03449990011,Karachi,100000.00,100000.00,1,0,1

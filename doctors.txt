@@ -1,0 +1,7 @@
+doctor_id,name,specialization,contact,password,fee
+1,Dr. Sara Khan,Cardiology,03111234567,doc456,2500.00
+2,Dr. Ali Raza,Neurology,03222345678,ali789,3000.00
+3,Dr. Zain Malik,Pediatrics,03333456789,zain123,2000.00
+4,Dr. Hina Tariq,Dermatology,03444567890,hina456,2500.00
+5,Dr. Farhan Akhtar,Orthopedics,03555678901,farhan789,3500.00
+6,Dr. Ayesha Siddiqui,Gynecology,03666789012,ayesha123,3000.00

@@ -1,0 +1,6 @@
+user_id,role,attempt_count,is_locked
+1,Patient,0,0
+2,Patient,0,0
+3,Doctor,0,0
+4,Admin,0,0
+5,Patient,3,1

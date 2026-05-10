@@ -1,0 +1,4 @@
+prescription_id,appointment_id,patient_id,doctor_id,date,medicines,notes
+1,1,1,1,15-05-2026,Paracetamol 500mg;Amoxicillin 250mg,Take after meals for 5 days
+2,3,3,3,16-05-2026,Cough Syrup 10ml;Vitamin C 500mg,Take twice daily
+3,5,5,4,17-05-2026,Antihistamine 10mg;Skin Cream,Apply morning and evening

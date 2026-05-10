@@ -1,0 +1,6 @@
+medicine_id,medicine_name,category,manufacturer,price,stock,reorder_level,expiry_date,requires_prescription,tax
+1,Panadol,Painkiller,GSK,50.00,500,50,31-12-2026,0,5
+2,Augmentin,Antibiotic,Glaxo,300.00,200,30,30-06-2026,1,5
+3,Ventolin,Asthma,GSK,150.00,100,20,31-10-2026,1,5
+4,Brufen,Painkiller,Abbott,80.00,300,40,30-09-2026,0,5
+5,Insulin,Diabetes,Nordisk,1200.00,50,10,31-08-2026,1,0

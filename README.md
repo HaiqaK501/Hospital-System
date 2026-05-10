@@ -1,2 +1,2 @@
-# Hospital-System
-OOP  Project
+# Hospital_Management_System
+hospital mng system

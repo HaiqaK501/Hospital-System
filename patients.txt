@@ -1,0 +1,6 @@
+patient_id,name,age,gender,contact,password,balance
+1,Ahmed Ali,28,M,03001234567,pass123,50000.00
+2,Sara Khan,25,F,03007654321,sara456,25000.00
+3,Usman Chaudhry,35,M,03111223344,usman789,100000.00
+4,Fatima Zaidi,42,F,03229876543,fatima321,75000.00
+5,Omar Farooq,19,M,03335556677,omar999,15000.00
